@@ -5,7 +5,7 @@ Welcome to "My Profile" – a simple personal portfolio website built using "HTM
 
 
 ##  Live Demo 
->  [View My Profile Website](https://github.com/saisaraswathi123/My-Profile.git) (Replace this link after deploying to GitHub Pages)
+>  [View My Profile Website](https://github.com/saisaraswathi123/My-Profile.git) 
 
 ---
 
